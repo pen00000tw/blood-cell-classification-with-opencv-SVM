@@ -1,0 +1,94 @@
+測試資料,預測答案,對錯,預測正確數
+band neutrophile,band neutrophile,對,1
+band neutrophile,band neutrophile,對,2
+band neutrophile,band neutrophile,對,3
+band neutrophile,band neutrophile,對,4
+band neutrophile,band neutrophile,對,5
+band neutrophile,band neutrophile,對,6
+band neutrophile,band neutrophile,對,7
+band neutrophile,band neutrophile,對,8
+band neutrophile,eosinophile,錯,8
+band neutrophile,eosinophile,錯,8
+band neutrophile,eosinophile,錯,8
+band neutrophile,eosinophile,錯,8
+band neutrophile,band neutrophile,對,9
+band neutrophile,lymphocyte,錯,9
+band neutrophile,eosinophile,錯,9
+band neutrophile,band neutrophile,對,10
+band neutrophile,band neutrophile,對,11
+band neutrophile,band neutrophile,對,12
+band neutrophile,band neutrophile,對,13
+band neutrophile,band neutrophile,對,14
+band neutrophile,band neutrophile,對,15
+band neutrophile,band neutrophile,對,16
+band neutrophile,band neutrophile,對,17
+band neutrophile,band neutrophile,對,18
+band neutrophile,band neutrophile,對,19
+band neutrophile,band neutrophile,對,20
+band neutrophile,band neutrophile,對,21
+band neutrophile,band neutrophile,對,22
+band neutrophile,band neutrophile,對,23
+band neutrophile,band neutrophile,對,24
+eosinophile,eosinophile,對,25
+eosinophile,eosinophile,對,26
+eosinophile,lymphocyte,錯,26
+eosinophile,eosinophile,對,27
+eosinophile,eosinophile,對,28
+eosinophile,eosinophile,對,29
+eosinophile,band neutrophile,錯,29
+eosinophile,band neutrophile,錯,29
+eosinophile,eosinophile,對,30
+eosinophile,eosinophile,對,31
+eosinophile,eosinophile,對,32
+eosinophile,eosinophile,對,33
+eosinophile,eosinophile,對,34
+eosinophile,eosinophile,對,35
+eosinophile,eosinophile,對,36
+eosinophile,eosinophile,對,37
+eosinophile,eosinophile,對,38
+eosinophile,band neutrophile,錯,38
+eosinophile,eosinophile,對,39
+eosinophile,eosinophile,對,40
+eosinophile,band neutrophile,錯,40
+eosinophile,eosinophile,對,41
+eosinophile,eosinophile,對,42
+eosinophile,eosinophile,對,43
+eosinophile,eosinophile,對,44
+eosinophile,eosinophile,對,45
+eosinophile,eosinophile,對,46
+eosinophile,eosinophile,對,47
+eosinophile,eosinophile,對,48
+eosinophile,eosinophile,對,49
+lymphocyte,lymphocyte,對,50
+lymphocyte,lymphocyte,對,51
+lymphocyte,lymphocyte,對,52
+lymphocyte,lymphocyte,對,53
+lymphocyte,lymphocyte,對,54
+lymphocyte,lymphocyte,對,55
+lymphocyte,lymphocyte,對,56
+lymphocyte,lymphocyte,對,57
+lymphocyte,lymphocyte,對,58
+lymphocyte,lymphocyte,對,59
+lymphocyte,lymphocyte,對,60
+lymphocyte,lymphocyte,對,61
+lymphocyte,lymphocyte,對,62
+lymphocyte,lymphocyte,對,63
+lymphocyte,lymphocyte,對,64
+lymphocyte,lymphocyte,對,65
+lymphocyte,lymphocyte,對,66
+lymphocyte,lymphocyte,對,67
+lymphocyte,lymphocyte,對,68
+lymphocyte,lymphocyte,對,69
+lymphocyte,lymphocyte,對,70
+lymphocyte,lymphocyte,對,71
+lymphocyte,lymphocyte,對,72
+lymphocyte,lymphocyte,對,73
+lymphocyte,lymphocyte,對,74
+lymphocyte,lymphocyte,對,75
+lymphocyte,lymphocyte,對,76
+lymphocyte,lymphocyte,對,77
+lymphocyte,lymphocyte,對,78
+lymphocyte,lymphocyte,對,79
+
+
+分類成功率:,87.78,預測成功總數:,79,測試資料總數:,90
